@@ -10,8 +10,7 @@ Also, a lot of HTTP traffic is required in every network, which makes monitoring
 
 **TODO
 **
-Configure a simple HTTP server and a simple HTTP client.
-Use the GET and POST methods to send data.
+Configure a simple HTTP server and a simple HTTP client.Use the GET and POST methods to send data.
 Initiate a reverse HTTP session back to server using a GET method.
 Upon receiving a GET request,take commands using raw input, and send command back to the target.
 Once command given to the target, it'll initiate a subprocess: (a cmd.exe subprocess).
