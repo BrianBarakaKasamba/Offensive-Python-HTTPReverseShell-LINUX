@@ -26,4 +26,28 @@ Configure a simple HTTP server and a simple HTTP client.Use the GET and POST met
 
 5.Repeat the whole process all over again using the while True: infinite loop.
 
+VIRUS TOTAL RESULTS
+python script.
+![ClientPythonScript](https://user-images.githubusercontent.com/98221277/163320935-1539c5f2-e218-4712-95ae-37bc85c19308.png)
+
+
+
+Compiled Linux Binary
+![CompiledBinaryLinux](https://user-images.githubusercontent.com/98221277/163321156-636fcca6-107a-4870-b4dd-6c7c7ab6486f.png)
+
+
+
+
+
+
+Confirmed File Type is ELF
+
+![ConfirmFileType](https://user-images.githubusercontent.com/98221277/163321254-77072969-0475-419a-8b44-b44a213f602b.png)
+
+
+
+
+
+
+
 
