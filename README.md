@@ -26,6 +26,16 @@ Configure a simple HTTP server and a simple HTTP client.Use the GET and POST met
 
 5.Repeat the whole process all over again using the while True: infinite loop.
 
+HOW TO USE
+
+
+![proofofpythonversion](https://user-images.githubusercontent.com/98221277/163725729-be3b8139-58d5-4e30-a050-944648c65889.gif)
+
+
+
+
+
+
 VIRUS TOTAL RESULTS
 python script.
 ![ClientPythonScript](https://user-images.githubusercontent.com/98221277/163320935-1539c5f2-e218-4712-95ae-37bc85c19308.png)
