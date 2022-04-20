@@ -1,3 +1,4 @@
+[![GitHub stars](https://img.shields.io/github/stars/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell?style=plastic)](https://github.com/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell/stargazers)[![GitHub license](https://img.shields.io/github/license/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell?style=plastic)](https://github.com/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell/blob/main/LICENSE)[![GitHub forks](https://img.shields.io/github/forks/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell)](https://github.com/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell/network)[![GitHub issues](https://img.shields.io/github/issues/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell)](https://github.com/BrianBarakaKasamba/Offensive-Python-HTTPReverseShell/issues)
 # Offensive-Python-HTTPReverseShell
 Write up for Black-hat python from lessons at PactpPub networking_and_servers books.
 Date :/13/04/2022 
